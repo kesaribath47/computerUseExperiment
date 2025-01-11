@@ -4,13 +4,9 @@ Forked from [claude-computer-use-macos](https://github.com/PallavAg/claude-compu
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/PallavAg/claude-computer-use-macos.git
-   cd claude-computer-use-macos
-   ```
 
 2. **Create a virtual environment + install dependencies:**
-
+Needs Python 3.12 installed
    ```bash
    python3.12 -m venv venv
    source venv/bin/activate
